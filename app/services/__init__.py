@@ -17,7 +17,7 @@ celery_service.conf.update(
 )
 
 # Email credentials & server details
-EMAIL_ADDRESS = "customer@example.com"
+EMAIL_ADDRESS = "customer@cvpap.store"
 EMAIL_PASSWORD = "customer-cvpap-password"
 SMTP_SERVER = "mail.cvpap.store"
 IMAP_SERVER = "mail.cvpap.store"
